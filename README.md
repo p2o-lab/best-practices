@@ -1,3 +1,3 @@
-# clean-code
+# best-practises
 Go to Wiki page
-https://github.com/tuansondinh/clean-code/wiki
+https://github.com/p2o-lab/best-practices/wiki
