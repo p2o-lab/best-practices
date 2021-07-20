@@ -9,3 +9,5 @@ https://github.com/p2o-lab/best-practices/wiki
 15.07. added 2.9
 
 19.07. added 2.10
+
+20.07. added 2.11, 2.12, 2.13 
