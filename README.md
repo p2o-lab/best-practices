@@ -17,3 +17,4 @@ https://github.com/p2o-lab/best-practices/wiki
 27.07. added 3.4
 
 28.07. added 4.1
+29.07. added 4.2
