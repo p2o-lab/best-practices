@@ -20,4 +20,4 @@ https://github.com/p2o-lab/best-practices/wiki
 
 29.07. added 4.2
 
-29.07. finished 4.2
+30.07. finished 4.2
