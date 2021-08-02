@@ -21,3 +21,5 @@ https://github.com/p2o-lab/best-practices/wiki
 29.07. added 4.2
 
 30.07. finished 4.2
+
+02.08. added 5.1-5.2
