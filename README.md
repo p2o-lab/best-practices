@@ -29,3 +29,5 @@ https://github.com/p2o-lab/best-practices/wiki
 11.08. added 5.5-5.9
 
 12.08 added 6.1 - 6.6
+
+16.08. added 6.7-6.9
