@@ -33,3 +33,5 @@ https://github.com/p2o-lab/best-practices/wiki
 16.08. added 6.7-6.9
 
 17.08. added 8.1-8.4
+
+18.08 added 8.5-8.7
